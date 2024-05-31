@@ -1,6 +1,4 @@
 # excel-challenge
-Sure, here's a professional project description for your README or portfolio based on the provided instructions for analyzing crowdfunding data:
-
 ---
 
 ## Project Title: Crowdfunding Campaign Analysis
